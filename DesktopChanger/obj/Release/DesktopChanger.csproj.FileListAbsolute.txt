@@ -1,8 +1,0 @@
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\bin\Release\DesktopChanger.exe.config
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\bin\Release\DesktopChanger.exe
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\bin\Release\DesktopChanger.pdb
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\obj\Release\DesktopChanger.Form1.resources
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\obj\Release\DesktopChanger.csproj.GenerateResource.cache
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\obj\Release\DesktopChanger.exe
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\obj\Release\DesktopChanger.pdb
-C:\Users\pavliuk-od\source\repos\DesktopChanger\DesktopChanger\obj\Release\DesktopChanger.Properties.Resources.resources
